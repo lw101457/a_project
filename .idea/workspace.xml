@@ -2,172 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da989163-f6a5-435b-a2a8-2d631d16391a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../django11/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/app/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/css/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/css/jquery.idcode.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/css/商品.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/css/商品详情.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/css/注册.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/T1FXHXXahjXXXAK3zo-77-18.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/bg_bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/button_111.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/cart1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/dg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/diy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/giveup.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/go.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/gomoney.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/gon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/gu0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/gu1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/gu2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/gu3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/gu4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/gwc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/hdP20160312144947839.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/hdP20160312150857107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/hdP20160313145249235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/hdP20160313153110796.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/hot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/iqiangbg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/li9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/loginsub.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/maxP20160312144947839.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/maxP20160312150857107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/maxP20160313145249235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/maxP20160313153110796.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130112110730991.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130125140233185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130125170822435.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130127143251661.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130128160238754.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130131100901989.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130424133451693.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130424142002630.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130427163130308.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130427172825901.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130428091631683.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP2013042810115373.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130428110620823.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130501143639745.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130505103859758.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130507110404305.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130604152951152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20130815101406262.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160312144947839.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160312150857107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160312152807378.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP2016031314422891.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160313145249235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160313150203420.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160313150744832.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160313152415166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160313153110796.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316131539552.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316132640993.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316133300714.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316133759283.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316134241222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316135002531.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316135451288.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316135827379.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160316140503105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160317184706766.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/midP20160317185139236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/minP20160312144947839.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/minP20160312150857107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/minP2016031314422891.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/minP20160313145249235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/minP20160313153110796.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/p201312061100260276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/p201401211350199562.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/p201404011334302415.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/p201406071435494008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/p201603151537553117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/p201603161259330219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/p201603161302213462.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/p201603212021240460.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/regbgs.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/shoppingcarbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/sideNav_bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/sxlrx_falsh41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/tg0591_falsh7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/wx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/zmgd888_falsh20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/zmgd888_falsh28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/zmgd888_falsh29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/zmgd888_falsh30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/zmgd888_falsh31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/zmgd888_falsh38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/zmgd888_falsh39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/img/验证码.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/js/jquery-3.1.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/js/jquery.cookie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/js/jquery.idcode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/js/myhome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/js/proxy.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/js/shouji.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/js/商品详情.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/json/iFocus.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/json/miaosha.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/json/phone.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/static/json/shumalunbo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/templates/商品3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/templates/商品4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/templates/商品详情.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/templates/商品详情2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/templates/天狗商城.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/templates/我的购物车.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django11/templates/注册.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -279,7 +115,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="92">
+                <state relative-caret-position="312">
                   <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
                   <folding>
                     <element signature="e#0#35#0" expanded="true" />
@@ -341,7 +177,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -364,8 +200,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="960" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -467,7 +302,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1080" extended-state="4" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.30786517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -483,7 +318,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32967034" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.46703297" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32967034" />
       <window_info anchor="bottom" id="manage.py@user" order="14" weight="0.2901099" />
@@ -657,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="312">
           <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
