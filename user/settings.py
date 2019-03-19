@@ -25,7 +25,7 @@ SECRET_KEY = 'glq#=(0v-b*ot4vh8bt#64rn+fco374k_glr@w!x#5jpepuy%d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -80,7 +80,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mydb',
         'USER':'root',
-        'PASSWORD':'123456',
+        'PASSWORD':'rock1204',
+        'HOST':'127.0.0.1',
+        'PORT':'3306'
     }
 }
 
@@ -125,3 +127,7 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
         os.path.join(BASE_DIR,'static')
 ]
+# SESSION_ENGINE = 'redis_sessions.session'
+# SESSION_REDIS_HOST = '127.0.0.1'
+# SESSION_REDIS_PORT = 6379
+# SESSION_REDIS_DB = 0
